@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fdaf442-42f5-4998-8aed-4d6b255caf19" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart-vehicle-system.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/SpringSmartVehicleSystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/SpringSmartVehicleSystemApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/ErrorResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/RestExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/RestExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/VehicleException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/VehicleException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/model/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/model/Response.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/model/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/model/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/repository/VehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/repository/VehicleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/service/VehicleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/service/VehicleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/service/VehicleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/service/VehicleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/util/PayloadValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/util/PayloadValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/service/VehicleServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/service/VehicleServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/util/PayloadValidatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/util/PayloadValidatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/web/VehicleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/web/VehicleControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.akshaythorve.mitchell/smart-vehicle-system/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.akshaythorve.mitchell/smart-vehicle-system/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.akshaythorve.mitchell/smart-vehicle-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/com.akshaythorve.mitchell/smart-vehicle-system/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/SpringSmartVehicleSystemApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/SpringSmartVehicleSystemApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/model/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/model/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/repository/VehicleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/repository/VehicleRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/service/VehicleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/service/VehicleService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/service/VehicleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/service/VehicleServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/util/PayloadValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/util/PayloadValidator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/web/VehicleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/akshaythorve/mitchell/web/VehicleController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/akshaythorve/mitchell/DemoApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/akshaythorve/mitchell/service/VehicleServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/akshaythorve/mitchell/service/VehicleServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/akshaythorve/mitchell/web/VehicleControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/akshaythorve/mitchell/web/VehicleControllerTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,84 +13,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/smart_vehicle_system$All_in_smart_vehicle_system.ic" NAME="All in smart-vehicle-system Coverage Results" MODIFIED="1524465469608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PayloadValidator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/util/PayloadValidator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PayloadValidatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/util/PayloadValidatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/test.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="SpringSmartVehicleSystemApplicationTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/SpringSmartVehicleSystemApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="VehicleController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-343">
-              <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+            <state relative-caret-position="195">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VehicleServiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/service/VehicleServiceTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+            <state relative-caret-position="90">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VehicleControllerTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/web/VehicleControllerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="108" column="60" selection-start-line="108" selection-start-column="60" selection-end-line="108" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VehicleService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/service/VehicleService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VehicleException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/exception/VehicleException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="247">
+                <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -137,9 +52,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>VehicleException</find>
       <find>completed</find>
       <find>New Vehicle Sample</find>
+      <find>VehicleException</find>
     </findStrings>
     <replaceStrings>
       <replace>Ford</replace>
@@ -152,13 +67,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/util/PayloadValidator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/util/PayloadValidatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/service/VehicleServiceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/web/VehicleControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="All in smart-vehicle-system" />
+    </enabled-run-configurations>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -204,56 +125,6 @@
               <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mitchell" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mitchell" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mitchell" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="smart-vehicle-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="smart-vehicle-system" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -289,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in smart-vehicle-system">
+  <component name="RunManager" selected="Spring Boot.SpringSmartVehicleSystemApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -490,23 +361,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524460289056</updated>
-      <workItem from="1524460291895" duration="4140000" />
+      <workItem from="1524460291895" duration="7500000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VehicleControllerTest_verifyVehicleById - 2018.04.22 at 23h 02m 42s.xml">
-      <configuration name="VehicleControllerTest.verifyVehicleById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VehicleControllerTest_verifyVehicleById - 2018.04.22 at 23h 03m 18s.xml">
-      <configuration name="VehicleControllerTest.verifyVehicleById" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VehicleControllerTest - 2018.04.22 at 23h 04m 17s.xml">
-      <configuration name="VehicleControllerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VehicleControllerTest - 2018.04.22 at 23h 11m 23s.xml">
-      <configuration name="VehicleControllerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VehicleControllerTest_verifyUpdateVehicle - 2018.04.22 at 23h 14m 15s.xml">
       <configuration name="VehicleControllerTest.verifyUpdateVehicle" configurationId="JUnit" />
     </history-entry>
@@ -525,9 +384,21 @@
     <history-entry file="VehicleControllerTest_verifySaveVehicle - 2018.04.22 at 23h 23m 18s.xml">
       <configuration name="VehicleControllerTest.verifySaveVehicle" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_smart-vehicle-system - 2018.04.22 at 23h 23m 47s.xml">
+      <configuration name="All in smart-vehicle-system" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_smart-vehicle-system - 2018.04.22 at 23h 24m 18s.xml">
+      <configuration name="All in smart-vehicle-system" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_smart-vehicle-system - 2018.04.22 at 23h 36m 08s.xml">
+      <configuration name="All in smart-vehicle-system" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_smart-vehicle-system - 2018.04.22 at 23h 38m 06s.xml">
+      <configuration name="All in smart-vehicle-system" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4140000" />
+    <option name="totallyTimeSpent" value="7500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="0" />
@@ -550,11 +421,12 @@
       <window_info id="Image Layers" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40031153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2975078" />
       <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.63671875" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -593,13 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-343">
-          <caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/util/PayloadValidator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -610,13 +475,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/test.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/util/PayloadValidatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/web/VehicleControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="60" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/service/VehicleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -627,6 +503,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/service/VehicleServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -634,10 +513,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/akshaythorve/mitchell/web/VehicleControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/SpringSmartVehicleSystemApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="108" column="60" selection-start-line="108" selection-start-column="60" selection-end-line="108" selection-end-column="60" />
+        <state relative-caret-position="105">
+          <caret line="18" column="81" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/repository/VehicleRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/akshaythorve/mitchell/web/VehicleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="247">
+            <caret line="93" column="39" selection-start-line="93" selection-start-column="39" selection-end-line="93" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -658,7 +568,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -670,7 +580,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Python 2.7.13 (/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

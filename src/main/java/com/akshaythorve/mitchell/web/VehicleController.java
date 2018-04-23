@@ -11,12 +11,19 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 import java.util.List;
 
 @RestController
-public class VehicleController {
+public class VehicleController extends WebMvcConfigurerAdapter {
 
+    // added to support for CORS i.e multi-domain access
+    @Override
+    public void addCorsMappings(CorsRegistry registry) {
+        registry.addMapping("/**");
+    }
     private static final Logger logger = LoggerFactory.getLogger(VehicleController.class);
 
     @Autowired
