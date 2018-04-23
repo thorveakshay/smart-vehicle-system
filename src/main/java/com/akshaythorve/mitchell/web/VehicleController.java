@@ -63,6 +63,16 @@ public class VehicleController {
    	}
     
     @RequestMapping(value = "/vehicles", method = RequestMethod.PATCH)
+   	public ResponseEntity<Vehicle>  updateVehicleData(@RequestBody Vehicle payload) throws VehicleException{
+    	logger.info("Payload to update " + payload);
+    	Vehicle vehicle = vehicleService.getVehicleById(payload.getId());
+    	if (vehicle == null || vehicle.getId() <= 0){
+            throw new VehicleException("Vehicle doesn´t exist to update");
+    	}
+		return new ResponseEntity<Vehicle>(vehicleService.saveVehicle(payload), HttpStatus.OK);
+   	}
+    
+    @RequestMapping(value = "/vehicles", method = RequestMethod.PUT)
    	public ResponseEntity<Vehicle>  updateVehicle(@RequestBody Vehicle payload) throws VehicleException{
     	logger.info("Payload to update " + payload);
     	Vehicle vehicle = vehicleService.getVehicleById(payload.getId());
