@@ -26,13 +26,13 @@ public class VehicleController {
 	@Autowired
 	private VehicleService vehicleService;
 	
-	@RequestMapping(value="/vehicle", method=RequestMethod.GET)
+	@RequestMapping(value="/vehicles", method=RequestMethod.GET)
 	public ResponseEntity<List<Vehicle>> getAllVehicle(){
     	logger.info("Returning all the Vehicle´s");
 		return new ResponseEntity<List<Vehicle>>(vehicleService.getAllVehicle(), HttpStatus.OK);
 	}
 	
-    @RequestMapping(value = "/vehicle/{id}", method = RequestMethod.GET)
+    @RequestMapping(value = "/vehicles/{id}", method = RequestMethod.GET)
 	public ResponseEntity<Vehicle> getVehicleById(@PathVariable("id") int id) throws VehicleException {
     	logger.info("Vehicle id to return " + id);
     	Vehicle vehicle = vehicleService.getVehicleById(id);
@@ -42,7 +42,7 @@ public class VehicleController {
 		return new ResponseEntity<Vehicle>(vehicleService.getVehicleById(id), HttpStatus.OK);
 	}
 
-    @RequestMapping(value = "/vehicle/{id}", method = RequestMethod.DELETE)
+    @RequestMapping(value = "/vehicles/{id}", method = RequestMethod.DELETE)
 	public ResponseEntity<Response> removeVehicleById(@PathVariable("id") int id) throws VehicleException{
     	logger.info("Vehicle id to remove " + id);
     	Vehicle vehicle = vehicleService.getVehicleById(id);
@@ -53,7 +53,7 @@ public class VehicleController {
 		return new ResponseEntity<Response>(new Response(HttpStatus.OK.value(), "Vehicle has been deleted"), HttpStatus.OK);
 	}
     
-    @RequestMapping(value = "/vehicle", method = RequestMethod.POST)
+    @RequestMapping(value = "/vehicles", method = RequestMethod.POST)
    	public ResponseEntity<Vehicle> saveVehicle(@RequestBody Vehicle payload) throws VehicleException{
     	logger.info("Payload to save " + payload);
     	if (!PayloadValidator.validateCreatePayload(payload)){
@@ -62,7 +62,7 @@ public class VehicleController {
 		return new ResponseEntity<Vehicle>(vehicleService.saveVehicle(payload), HttpStatus.OK);
    	}
     
-    @RequestMapping(value = "/vehicle", method = RequestMethod.PATCH)
+    @RequestMapping(value = "/vehicles", method = RequestMethod.PATCH)
    	public ResponseEntity<Vehicle>  updateVehicle(@RequestBody Vehicle payload) throws VehicleException{
     	logger.info("Payload to update " + payload);
     	Vehicle vehicle = vehicleService.getVehicleById(payload.getId());
