@@ -1,7 +1,7 @@
-package com.akshaythorve.mitchell.service;
+package com.akshaythorve.smartvehicle.service;
 
-import com.akshaythorve.mitchell.model.Vehicle;
-import com.akshaythorve.mitchell.repository.VehicleRepository;
+import com.akshaythorve.smartvehicle.model.Vehicle;
+import com.akshaythorve.smartvehicle.repository.VehicleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

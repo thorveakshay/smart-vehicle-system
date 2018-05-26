@@ -1,6 +1,6 @@
-package com.akshaythorve.mitchell.service;
+package com.akshaythorve.smartvehicle.service;
 
-import com.akshaythorve.mitchell.model.Vehicle;
+import com.akshaythorve.smartvehicle.model.Vehicle;
 
 import java.util.List;
 

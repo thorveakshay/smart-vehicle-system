@@ -1,4 +1,4 @@
-package com.akshaythorve.mitchell.model;
+package com.akshaythorve.smartvehicle.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

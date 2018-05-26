@@ -1,7 +1,7 @@
-package com.akshaythorve.mitchell.util;
+package com.akshaythorve.smartvehicle.util;
 
-import com.akshaythorve.mitchell.exception.VehicleException;
-import com.akshaythorve.mitchell.model.Vehicle;
+import com.akshaythorve.smartvehicle.exception.VehicleException;
+import com.akshaythorve.smartvehicle.model.Vehicle;
 
 public class PayloadValidator {
 

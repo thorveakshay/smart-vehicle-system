@@ -1,10 +1,10 @@
-package com.akshaythorve.mitchell.web;
+package com.akshaythorve.smartvehicle.web;
 
-import com.akshaythorve.mitchell.exception.VehicleException;
-import com.akshaythorve.mitchell.model.Response;
-import com.akshaythorve.mitchell.model.Vehicle;
-import com.akshaythorve.mitchell.service.VehicleService;
-import com.akshaythorve.mitchell.util.PayloadValidator;
+import com.akshaythorve.smartvehicle.exception.VehicleException;
+import com.akshaythorve.smartvehicle.model.Response;
+import com.akshaythorve.smartvehicle.model.Vehicle;
+import com.akshaythorve.smartvehicle.service.VehicleService;
+import com.akshaythorve.smartvehicle.util.PayloadValidator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

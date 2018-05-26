@@ -1,6 +1,6 @@
-package com.akshaythorve.mitchell.repository;
+package com.akshaythorve.smartvehicle.repository;
 
-import com.akshaythorve.mitchell.model.Vehicle;
+import com.akshaythorve.smartvehicle.model.Vehicle;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

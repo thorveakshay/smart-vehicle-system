@@ -1,7 +1,7 @@
-package com.akshaythorve.mitchell;
+package com.akshaythorve.smartvehicle;
 
-import com.akshaythorve.mitchell.model.Vehicle;
-import com.akshaythorve.mitchell.repository.VehicleRepository;
+import com.akshaythorve.smartvehicle.model.Vehicle;
+import com.akshaythorve.smartvehicle.repository.VehicleRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;

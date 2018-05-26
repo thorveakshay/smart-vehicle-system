@@ -1,4 +1,4 @@
-package com.akshaythorve.mitchell.exception;
+package com.akshaythorve.smartvehicle.exception;
 
 public class VehicleException extends Exception {
 

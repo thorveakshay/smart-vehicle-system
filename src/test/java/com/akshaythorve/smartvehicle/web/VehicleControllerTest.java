@@ -1,6 +1,6 @@
-package com.akshaythorve.mitchell.web;
+package com.akshaythorve.smartvehicle.web;
 
-import com.akshaythorve.mitchell.SpringSmartVehicleSystemApplication;
+import com.akshaythorve.smartvehicle.SpringSmartVehicleSystemApplication;
 import org.junit.Before;
 import org.junit.FixMethodOrder;
 import org.junit.Test;

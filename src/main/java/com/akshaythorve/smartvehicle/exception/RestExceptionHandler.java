@@ -1,4 +1,4 @@
-package com.akshaythorve.mitchell.exception;
+package com.akshaythorve.smartvehicle.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

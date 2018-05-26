@@ -1,4 +1,4 @@
-package com.akshaythorve.mitchell;
+package com.akshaythorve.smartvehicle;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
