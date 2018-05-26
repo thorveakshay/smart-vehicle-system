@@ -4,7 +4,6 @@
 
 All RESTful endpoints working. Tested using Postman
 
-Note: On official [**test client**](https://estimate-dev.mymitchell.com/codingchallenge/v1/index.html#/) update and delete is not working. There is some error with crosssite somain "CORS" but I tested the same on Postman all functions are working as expected.
 
 ````
 GET vehicles
@@ -17,11 +16,14 @@ DELETE vehicles/{id}
     - Vehicles must have a non-null / non-empty make and model specified, and the year must be
     between 1950 and 2050.
 
-## Requirements
+## Technology Stack
 
-1.  Java - 1.8.x
-
-2.  Maven - 3.x.x
+1.  Java
+2.  Maven
+3.  Spring
+4.  Spring-Boot
+5.  JUnit
+6.  MockMvc
 
 
 ## Steps to Setup

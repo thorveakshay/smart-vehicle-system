@@ -1,3 +1,4 @@
-com/akshaythorve/mitchell/service/VehicleServiceTest.class
-com/akshaythorve/mitchell/util/PayloadValidatorTest.class
-com/akshaythorve/mitchell/web/VehicleControllerTest.class
+com/akshaythorve/smartvehicle/service/VehicleServiceTest.class
+com/akshaythorve/smartvehicle/SpringSmartVehicleSystemApplicationTests.class
+com/akshaythorve/smartvehicle/util/PayloadValidatorTest.class
+com/akshaythorve/smartvehicle/web/VehicleControllerTest.class
